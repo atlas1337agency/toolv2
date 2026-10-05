@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "N E X A 1337 - MultiTool",
+  "version": "1.0.0",
+  "description": "A comprehensive multi-utility SaaS dashboard featuring a Resume Generator, QR Code Generator, Invoice Generator, and Document Generator.",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open N E X A 1337 - MultiTool"
+  }
+}
